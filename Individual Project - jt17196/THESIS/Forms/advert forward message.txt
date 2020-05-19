@@ -1,0 +1,4 @@
+Hello! I'm currently working on my final year project, which is to develop a simple mobile app to improve writer's productivity and overcome writer's block.
+This mobile app is like a mini collection game, you record your word count and the number turns into money, allowing you to buy pixel characters. There's more to this app, so there'll be a tutorial/explanation panel provided in the app. 
+So if you're interested and would like to lend me a hand with my project, please first fill in the consent form, then download the APK file or PC version linked and try out the demo app yourself, and I would appreciate if you could fill in the evaluation form to let me know how was your experience with this app and useful feedback!
+Regarding more specific information on your participation and data protection, please have a look at the participation information sheet. Thanks!

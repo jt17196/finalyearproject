@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes pc/main scene pc.unity
+  isLoaded: 1
+  isActive: 1
